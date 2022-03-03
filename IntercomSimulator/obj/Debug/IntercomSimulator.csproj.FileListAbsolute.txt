@@ -1,0 +1,32 @@
+c:\users\filemon\documents\visual studio 2012\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\IntercomSimulator.exe.config
+c:\users\filemon\documents\visual studio 2012\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\IntercomSimulator.exe
+c:\users\filemon\documents\visual studio 2012\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\IntercomSimulator.pdb
+c:\users\filemon\documents\visual studio 2012\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.Properties.Resources.resources
+c:\users\filemon\documents\visual studio 2012\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.csproj.GenerateResource.Cache
+c:\users\filemon\documents\visual studio 2012\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.exe
+c:\users\filemon\documents\visual studio 2012\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.pdb
+C:\Users\filemon\Documents\Visual Studio 2012\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.MainFormIntercomSimulator.resources
+C:\Users\filemon\Documents\Visual Studio 2012\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.Resources.resources
+C:\Users\filemon\Documents\Visual Studio 2012\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.csprojResolveAssemblyReference.cache
+C:\Jordi\IntercomSimulator\bin\Debug\IntercomSimulator.exe.config
+C:\Jordi\IntercomSimulator\obj\Debug\IntercomSimulator.exe
+C:\Jordi\IntercomSimulator\obj\Debug\IntercomSimulator.pdb
+C:\Jordi\IntercomSimulator\bin\Debug\IntercomSimulator.exe
+C:\Jordi\IntercomSimulator\bin\Debug\IntercomSimulator.pdb
+C:\Jordi\IntercomSimulator\obj\Debug\IntercomSimulator.csprojResolveAssemblyReference.cache
+C:\Jordi\IntercomSimulator\obj\Debug\IntercomSimulator.MainFormIntercomSimulator.resources
+C:\Jordi\IntercomSimulator\obj\Debug\IntercomSimulator.Properties.Resources.resources
+C:\Jordi\IntercomSimulator\obj\Debug\IntercomSimulator.Resources.resources
+C:\Jordi\IntercomSimulator\obj\Debug\IntercomSimulator.csproj.GenerateResource.Cache
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\IntercomSimulator.exe.config
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.exe
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.pdb
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\IntercomSimulator.exe
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\IntercomSimulator.pdb
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.MainFormIntercomSimulator.resources
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.Properties.Resources.resources
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.Resources.resources
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.csproj.GenerateResource.Cache
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\NAudio.dll
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\bin\Debug\NAudio.xml
+C:\Users\dcabezas\Documents\Visual Studio 2013\Projects\IntercomSimulator\IntercomSimulator\obj\Debug\IntercomSimulator.csprojResolveAssemblyReference.cache

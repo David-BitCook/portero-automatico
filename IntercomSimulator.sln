@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntercomSimulator", "IntercomSimulator\IntercomSimulator.csproj", "{0381E920-44AB-43D4-A907-AAC11ABF2DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0381E920-44AB-43D4-A907-AAC11ABF2DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0381E920-44AB-43D4-A907-AAC11ABF2DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0381E920-44AB-43D4-A907-AAC11ABF2DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0381E920-44AB-43D4-A907-AAC11ABF2DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
